@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @lzanuncio
-- 👀 I’m interested in filosofia, história, ciências sociais, política, natureza, trabalho voluntário e TI.
-- 🌱 I’m currently learning com suporte de TI.
-- 💞️ I’m looking to collaborate on SCRUM ou DEV.
+- 👀 I’m interested in philosophy, history, social sciences, politics, nature, volunteer work and IT.
+- 🌱 I’m currently learning DEV (preferably backend).
 - 📫 How to reach me: luisfernandozanuncio@gmail.com
-
-
