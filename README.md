@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @lzanuncio
-- 👀 I’m interested in philosophy, history, social sciences, politics, nature, volunteer work and IT.
 - 🌱 I’m currently learning DEV (preferably backend).
 - 📫 How to reach me: luisfernandozanuncio@gmail.com
